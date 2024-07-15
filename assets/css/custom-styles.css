@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/path/to/crimson-text.woff2') format('woff2'),
+     
+}
